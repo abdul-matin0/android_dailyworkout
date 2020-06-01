@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Daily Workout</string>
+    <string name="greetingTextView">Good Morning</string>
+    <string name="dayCaption">Full Body Workout</string>
+    <string name="backgroundtop">backgroundtop</string>
+    <string name="ellianaTextView">ELLIANA PALACIOS</string>
+    <string name="dietrecommend">dietRecommend</string>
+    <string name="exerciseImage">exercise</string>
+    <string name="yogaimage">yogaImage</string>
+    <string name="meditationImage">meditation</string>
+    <string name="searchEditText">Want to search something...</string>
+    <string name="avatar">avatar</string>
+    <string name="menu">menu</string>
+    <string name="navbarmenu">navbarMenu</string>
+    <string name="aboutappTextView">DAILY WORKOUT APP\nUI CONCEPT</string>
+    <string name="descText">Reshape your body. Always \nlive fit. A healthy lifestyle.</string>
+    <string name="startButton">Get Started Now!</string>
+    <string name="smallimage">smallImage</string>
+    <string name="bannerimage">bannerImage</string>
+    <string name="illustration">illustration</string>
+    <string name="exercisetext">Live happier and healthier by learning the fundamentals of meditation and mindfulness</string>
+</resources>
